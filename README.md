@@ -1,1 +1,1 @@
-# academic-projects
+Predict the Mortality Rate in United States of America. This project involved cleaning up the data, choosing the regression model after cross-validation, and comparing it with other supervised learning models (also created based on cross-validation).
